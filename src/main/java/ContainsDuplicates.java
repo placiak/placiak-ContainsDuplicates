@@ -24,6 +24,7 @@ public class ContainsDuplicates {
                 }else{
                     set.add(nums[i]);
                     //continue;
+                    //trouble committing
                 }
 
             
